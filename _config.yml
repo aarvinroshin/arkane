@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: arkane
+description: "cursed jekyll theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
