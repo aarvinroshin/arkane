@@ -1,4 +1,7 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# arkane
+
+cursed jekyll theme.
