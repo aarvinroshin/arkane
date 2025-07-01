@@ -1,3 +1,3 @@
 # arkane
 
-cursed jekyll theme: cursed jekyll theme: color fonts, 3d transform, & custom selection background.
+cursed jekyll theme: color fonts, 3d transform, & custom selection background.
