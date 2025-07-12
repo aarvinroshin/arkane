@@ -18,7 +18,7 @@ body {
 	max-width: 70ch;
 	padding: 1rem;
 	transform:
-		perspective(75em) rotateX(18deg) rotateY(-16deg) rotateZ(4deg);
+		perspective(75em) rotateX(18deg) rotateY(-16deg) rotateZ(4deg) skew(20deg, 10deg);
 }
 
 h1,
