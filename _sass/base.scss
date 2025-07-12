@@ -1,5 +1,6 @@
 * {
 	cursor: url("/assets/cursor.png"), auto;
+	filter: invert(1) hue-rotate(180deg) contrast(100%);
 }
 
 *::selection {
