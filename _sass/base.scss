@@ -1,3 +1,13 @@
+.element {
+	scrollbar-width: none;
+	-ms-overflow-style: none;
+	overflow: auto;
+}
+
+.element::-webkit-scrollbar {
+	display: none;
+}
+
 body {
 	animation: rotateBody 10s infinite linear;
 	background: linear-gradient(45deg, #ff0000, #00ff00, #0000ff);
